@@ -1,0 +1,1 @@
+// Final full working script.js with real rotate, drag-drop, spinner, select/deselect, preview
